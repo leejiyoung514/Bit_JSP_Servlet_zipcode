@@ -1,0 +1,1 @@
+/search.do=kr.co.bit.handler.SearchHandler
